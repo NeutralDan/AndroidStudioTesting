@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
     public void guessSubmitted (View view) {
 
         EditText guessEditText = findViewById(R.id.guessEditText);
-
         int guess = Integer.parseInt(guessEditText.getText().toString());
 
         if (guess > answer) {
