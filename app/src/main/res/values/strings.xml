@@ -11,4 +11,7 @@
     <string name="change_image">Change Image</string>
     <string name="todo">TODO</string>
     <string name="enter_dollars_here">Enter dollars here</string>
+    <string name="im_thinking_of_a_number_between_1_and_20">Im thinking of a number between 1 and 20:</string>
+    <string name="guess">Guess!</string>
+    <string name="enter_number">Enter Number</string>
 </resources>
